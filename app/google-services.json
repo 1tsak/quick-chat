@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917404899547",
+    "project_id": "quick-chat-75dfa",
+    "storage_bucket": "quick-chat-75dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917404899547:android:475805a90c0339765214fe",
+        "android_client_info": {
+          "package_name": "com.akbros.quickchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCasjJcoWeS6IT6AbLCYz0ZcLYZA7-nKcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
